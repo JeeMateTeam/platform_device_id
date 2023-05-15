@@ -37,6 +37,7 @@ dependencies:
         path: platform_device_id_windows
   
   device_info_plus: any
+  android_id: any
 
 dev_dependencies:
   flutter_test:
