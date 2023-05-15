@@ -12,7 +12,11 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  platform_device_id_platform_interface: ^1.0.0
+  platform_device_id_platform_interface: 
+    git:
+      url: https://github.com/JeeMateTeam/platform_device_id.git
+      ref: master
+      path: platform_device_id_platform_interface
 
 dev_dependencies:
   flutter_test:
